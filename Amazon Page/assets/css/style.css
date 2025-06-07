@@ -109,7 +109,7 @@ main #section-2 .div-3 .div-img {
 }
 
 main #section-2 img {
-  display: inline;
+  display: inline-block;
   width: 23%;
   height: 25em;
   margin-left: 1em;
