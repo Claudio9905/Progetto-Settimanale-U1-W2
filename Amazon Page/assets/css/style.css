@@ -1,0 +1,206 @@
+body {
+  background-color: rgb(230, 229, 229);
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* Lavoro sul header */
+header #logo {
+  background-color: rgb(39, 42, 57);
+  padding: 1em;
+}
+
+header #logo img {
+  width: 7.5em;
+  margin-left: 2em;
+}
+
+header nav {
+  background-color: rgb(60, 69, 87);
+  padding: 1em;
+}
+
+header nav p {
+  display: inline;
+  font-size: 1.1em;
+  margin-left: 2em;
+  color: white;
+}
+
+header nav p a {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+}
+
+/* Lavoro sul main */
+main #section-1 {
+  margin-left: 3em;
+  margin-right: 3em;
+  text-align: center;
+  color: white;
+}
+
+main #section-1 .div-1 {
+  background-color: orangered;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  padding: 0.8em;
+}
+
+main #section-1 .div-1 #first-title {
+  font-size: 1.3em;
+}
+
+main #section-1 .div-2 {
+  background-color: rgb(15, 114, 105);
+  background-image: url(../images/bg-image.png);
+  background-size: auto;
+  padding: 3em;
+}
+
+main #section-1 .div-2 #second-title {
+  font-size: 2.4em;
+  font-weight: 600;
+  margin-top: 0.5em;
+}
+
+main #section-1 .div-2 p {
+  margin-top: 1em;
+  font-size: 1.3em;
+  font-weight: 600;
+}
+
+main #section-2 {
+  background-color: white;
+  margin-top: 2em;
+  margin-left: 3em;
+  margin-right: 3em;
+  margin-bottom: 1em;
+}
+
+main #section-2 .div-3 {
+  margin-left: 0.1em;
+  margin-bottom: 1em;
+  padding: 1em;
+}
+
+main #section-2 .div-3 .third-title {
+  display: inline;
+  font-size: 1.5em;
+  color: black;
+  font-weight: 500;
+  margin-left: 0.7em;
+}
+
+main #section-2 .div-3 p {
+  display: inline;
+  font-size: 1em;
+  margin-left: 1em;
+  font-weight: 600;
+}
+
+main #section-2 .div-3 p a {
+  color: rgb(15, 114, 105);
+  text-decoration: none;
+}
+
+main #section-2 .div-3 .div-img {
+  margin-top: 1em;
+  margin-right: 0.5em;
+}
+
+main #section-2 img {
+  display: inline;
+  width: 23%;
+  height: 25em;
+  margin-left: 1em;
+  border-radius: 10px;
+  box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, 0.197);
+}
+
+main #section-3 {
+  margin-left: 1em;
+  margin-right: 1em;
+  padding: 2em;
+  text-align: center;
+}
+
+main #section-3 img {
+  width: 100%;
+}
+
+main #section-3 .div-5 {
+  margin-bottom: 1.5em;
+}
+
+main #section-3 .div-5 .fourth-title {
+  display: inline;
+  font-size: 1.5em;
+  color: black;
+  font-weight: 500;
+}
+
+main #section-3 .div-5 p {
+  display: inline;
+  font-size: 1em;
+  margin-left: 1em;
+  font-weight: 600;
+}
+
+main #section-3 .div-5 p a {
+  color: rgb(15, 114, 105);
+  text-decoration: none;
+}
+
+main #section-3 img {
+  width: 100%;
+}
+
+main #section-3 .div-6 .fifth-title {
+  display: inline;
+  font-size: 1.5em;
+  color: black;
+  font-weight: 500;
+}
+
+main #section-3 .div-6 p {
+  display: inline;
+  font-size: 1em;
+  margin-left: 1em;
+  font-weight: 600;
+}
+
+main #section-3 .div-6 p a {
+  color: rgb(15, 114, 105);
+  text-decoration: none;
+}
+
+/* lavoro sul footer */
+
+footer {
+  text-align: center;
+}
+
+footer .back {
+  text-align: center;
+  background-color: rgb(60, 69, 87);
+  padding: 1em;
+}
+
+footer .back p {
+  color: white;
+  font-size: 1.1em;
+}
+
+footer .back p a {
+  color: white;
+  font-size: 600;
+}
+
+footer .final-logo {
+  background-color: rgb(39, 42, 57);
+  padding: 2.5em;
+}
+
+footer .final-logo img {
+  width: 10em;
+}
