@@ -130,11 +130,34 @@ main #section-3 img {
   width: 100%;
 }
 
-main #section-3 .div-5 {
+main #section-3 .div-4 {
   margin-bottom: 1.5em;
 }
 
-main #section-3 .div-5 .fourth-title {
+main #section-3 .div-4 .fourth-title {
+  display: inline;
+  font-size: 1.5em;
+  color: black;
+  font-weight: 500;
+}
+
+main #section-3 .div-4 p {
+  display: inline;
+  font-size: 1em;
+  margin-left: 1em;
+  font-weight: 600;
+}
+
+main #section-3 .div-4 p a {
+  color: rgb(15, 114, 105);
+  text-decoration: none;
+}
+
+main #section-3 img {
+  width: 100%;
+}
+
+main #section-3 .div-5 .fifth-title {
   display: inline;
   font-size: 1.5em;
   color: black;
@@ -149,29 +172,6 @@ main #section-3 .div-5 p {
 }
 
 main #section-3 .div-5 p a {
-  color: rgb(15, 114, 105);
-  text-decoration: none;
-}
-
-main #section-3 img {
-  width: 100%;
-}
-
-main #section-3 .div-6 .fifth-title {
-  display: inline;
-  font-size: 1.5em;
-  color: black;
-  font-weight: 500;
-}
-
-main #section-3 .div-6 p {
-  display: inline;
-  font-size: 1em;
-  margin-left: 1em;
-  font-weight: 600;
-}
-
-main #section-3 .div-6 p a {
   color: rgb(15, 114, 105);
   text-decoration: none;
 }
